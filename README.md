@@ -6,6 +6,8 @@
 
  date    : 2019/09/02
 
+ update    : 2021/09/20
+
 ***
 
 Vue.js + node/express + sqlite3 sample 
